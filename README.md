@@ -2,7 +2,7 @@
 Caisson de protection pour fraiseuse Shapeoko 2
 
 ### Présentation :
-Le but de ce projet est de concevoir et réaliser un caisson de protection pour la Shapeoko 2 du FabLab La Machinerie afin de permettre aux adhérent d'utiliser la machine sans risque.
+Le but de ce projet est de concevoir et réaliser un caisson de protection pour la Shapeoko 2 du FabLab La Machinerie afin de permettre aux adhérents d'utiliser la machine sans risque.
 
 <img src="https://github.com/LaMachinerie/Caisson-Shapeoko/blob/master/rendu3Dcaisson.jpg" width="400" align="center" >
 
