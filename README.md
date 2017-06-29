@@ -5,3 +5,6 @@ Caisson de protection pour fraiseuse Shapeoko 2
 <img src="https://github.com/LaMachinerie/Caisson-Shapeoko/blob/master/rendu3Dcaisson.jpg" width="400" align="center" >
 
 Retrouvez tout le projet en 3D ici : http://a360.co/2cOyfcH
+
+### Prototype en cours ( 29/06/2017 ) :
+<img src="https://github.com/LaMachinerie/Caisson-Shapeoko/blob/master/MONTAGE/IMAGES%20PROTOTYPE/MONTAGE_PROTOTYPE_00015.jpg" width="600" align="center" >
